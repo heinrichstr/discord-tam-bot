@@ -1,0 +1,13 @@
+{
+  "name": "discord-tam-bot",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/heinrichstr/discord-tam-bot.git",
+  "author": "Thomas Heinrichs <tom.heinri@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "axios": "^0.26.1",
+    "discord.js": "^13.6.0",
+    "dotenv": "^16.0.0"
+  }
+}
